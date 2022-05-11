@@ -1,6 +1,5 @@
-package me.daewon.`coroutines-basics`
+package me.daewon.`01-coroutines-basics`
 
-import kotlin.concurrent.thread
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.runBlocking

@@ -1,4 +1,4 @@
-package me.daewon.`coroutines-basics`
+package me.daewon.`01-coroutines-basics`
 
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
